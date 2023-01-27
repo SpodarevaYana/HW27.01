@@ -1,0 +1,15 @@
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.csproj.AssemblyReference.cache
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.AssemblyInfoInputs.cache
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.AssemblyInfo.cs
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.csproj.CoreCompileInputs.cache
+C:\Users\яна\Практикум\дз\hw2\bin\Debug\net6.0\hw2.exe
+C:\Users\яна\Практикум\дз\hw2\bin\Debug\net6.0\hw2.deps.json
+C:\Users\яна\Практикум\дз\hw2\bin\Debug\net6.0\hw2.runtimeconfig.json
+C:\Users\яна\Практикум\дз\hw2\bin\Debug\net6.0\hw2.dll
+C:\Users\яна\Практикум\дз\hw2\bin\Debug\net6.0\hw2.pdb
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.dll
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\refint\hw2.dll
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.pdb
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\hw2.genruntimeconfig.cache
+C:\Users\яна\Практикум\дз\hw2\obj\Debug\net6.0\ref\hw2.dll
